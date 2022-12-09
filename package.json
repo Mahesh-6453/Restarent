@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@mui/lab": "^5.0.0-alpha.111"
+  },
+  "name": "restraurant-responsive-website-master",
+  "description": "It's a web application for a restaurant. User can see available meal and price by menu. Also can check locations and available of service area on map.Responsive Website CSS Grid and Bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
